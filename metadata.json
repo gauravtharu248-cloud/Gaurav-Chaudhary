@@ -1,0 +1,6 @@
+{
+  "name": "AndroidBridge - Linux Android ADB Manager",
+  "description": "Beginner-friendly Python Linux CLI tool and interactive simulator for inspecting and managing USB-debugging connected Android devices via ADB on Kali Linux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

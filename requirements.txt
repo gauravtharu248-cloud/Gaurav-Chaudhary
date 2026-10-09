@@ -1,0 +1,9 @@
+# AndroidBridge Requirements
+# 
+# AndroidBridge is designed to run using Python 3 Standard Library only!
+# No external pip wheels are required. This ensures zero-dependency execution
+# on Kali Linux, Debian, Ubuntu, Fedora, and Arch Linux without PEP 668 virtual environment errors.
+#
+# System requirements:
+# - Python 3.8 or newer (preinstalled on Kali Linux)
+# - adb (Android Debug Bridge: `sudo apt install -y adb`)
